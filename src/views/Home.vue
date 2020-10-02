@@ -13,13 +13,13 @@ import SalesView from '../components/SalesView/index'
 import BottomView from '../components/BottomView/index'
 import MapView from '../components/MapView/index'
 export default {
-    name: 'Home',
-    components: {
-        TopView,
-        SalesView,
-        BottomView,
-        MapView
-    }
+  name: 'Home',
+  components: {
+    TopView,
+    SalesView,
+    BottomView,
+    MapView
+  }
 }
 </script>
 

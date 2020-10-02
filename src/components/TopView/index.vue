@@ -1,12 +1,12 @@
 <template>
-<div class="TopView">
+<div class="top-view">
     top
 </div>
 </template>
 
 <script>
 export default {
-    name: 'TopView'
+  name: 'TopView'
 }
 </script>
 
