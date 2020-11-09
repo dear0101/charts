@@ -6,4 +6,5 @@
 .el-card__header {
     border-bottom: none;
     padding: 0;
+    margin: 0;
 }
